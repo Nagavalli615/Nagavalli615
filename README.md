@@ -12,7 +12,7 @@
 - 💬 Ask me about **Javascript And Angular**
 
 - 📫 How to reach me **vallikatta226@gmail.com**
-- view my resume [resume.pdf](https://github.com/Nagavalli615/Nagavalli615/files/14523975/Nagadevi.resume.pdf)
+- view my resume [Resume](https://github.com/Nagavalli615/Nagavalli615/files/14523975/Nagadevi.resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
