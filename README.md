@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on Web Applications
   
--🤝 I’m looking for help with Socialize
+- 🤝 I’m looking for help with Socialize
 
 - 🌱 I’m currently learning **Angular**
 
