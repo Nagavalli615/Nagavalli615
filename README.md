@@ -7,6 +7,10 @@
 
 - 🔭 I’m currently working on **NetflixClone**
 
+- 👯 I’m looking to collaborate on Web Applications
+  
+-🤝 I’m looking for help with Socialize
+
 - 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **Javascript And Angular**
