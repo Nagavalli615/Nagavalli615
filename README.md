@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm ✨Nagavalli✨ here!</h1>
+<h1 align="center">Hi 👋, I'm ✨Nagadevi✨ here!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagavalli615&label=Profile%20views&color=0e75b6&style=flat" alt="nagavalli615" /> </p>
