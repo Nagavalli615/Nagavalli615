@@ -16,7 +16,7 @@
 - 💬 Ask me about **Javascript And Angular**
 
 - 📫 How to reach me **vallikatta226@gmail.com**
-- view my [Uploading ValliResume.pdf…]()
+- view my [ValliResume.pdf…]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
